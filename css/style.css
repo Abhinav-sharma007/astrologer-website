@@ -54,3 +54,42 @@ footer {
   text-align: center;
   padding: 10px;
 }
+body {
+  background: #f9f9f9;
+}
+
+header {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+}
+
+.hero {
+  background: white;
+  margin: 40px auto;
+  max-width: 900px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.hero a {
+  display: inline-block;
+  margin: 10px;
+  padding: 14px 24px;
+  background: #0f2027;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.hero a:hover {
+  background: #203a43;
+}
+.fees {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.fees p {
+  margin: 4px 0;
+}
