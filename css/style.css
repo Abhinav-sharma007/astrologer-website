@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  background: #2c2c54;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 12px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Hero section */
+.hero {
+  padding: 60px 20px;
+  text-align: center;
+  background: #f2f2f2;
+}
+
+.hero h2 {
+  font-size: 32px;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 14px 22px;
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.call {
+  background: #e74c3c;
+}
+
+.whatsapp {
+  background: #25D366;
+}
+
+/* Footer */
+footer {
+  background: #2c2c54;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
